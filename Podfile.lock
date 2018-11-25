@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - CocoaAsyncSocket (7.6.3)
+  - Font-Awesome-Swift (1.7.2)
+  - Kingfisher (4.8.0)
+
+DEPENDENCIES:
+  - AlamofireImage (~> 3.3)
+  - CocoaAsyncSocket
+  - Font-Awesome-Swift (~> 1.7.2)
+  - Kingfisher (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - CocoaAsyncSocket
+    - Font-Awesome-Swift
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  CocoaAsyncSocket: eafaa68a7e0ec99ead0a7b35015e0bf25d2c8987
+  Font-Awesome-Swift: 83ab9db365379ee6025167cec67bdc5d3226a811
+  Kingfisher: 976d828df2b24834c6a3f2fc4d82cdbd26552be1
+
+PODFILE CHECKSUM: 0e720ebae91375ac47b2c2bc6dfb6e9666f6d3df
+
+COCOAPODS: 1.5.3
